@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 8596df0c2c4b64361bc69bfd4121c5ac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_0
+    21300002: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_1
+    21300004: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_2
+    21300006: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_3
+    21300008: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_4
+    21300010: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_5
+    21300012: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_6
+    21300014: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_7
+    21300016: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_8
+    21300018: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_9
+    21300020: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_10
+    21300022: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_11
+    21300024: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_12
+    21300026: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_13
+    21300028: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_14
+    21300030: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_15
+    21300032: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_16
+    21300034: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_17
+    21300036: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_18
+    21300038: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_19
+    21300040: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_20
+    21300042: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_21
+    21300044: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_22
+    21300046: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_23
+    21300048: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_24
+    21300050: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_25
+    21300052: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_26
+    21300054: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_27
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 675
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3101aa7ca5434cb9b7eddc00a33240d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 678
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a56cc16ec334ad789a00681d674212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 672
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff2a3c256574930a8cc39e7cf2bba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 581
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce394acae5754a069a5abd44a527e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 579
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035319a52ab5a4fbda3a7a187457e277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 582
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0bb36187140467fb4761a8f38bca09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 482
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3732d6e678f5470f8d7479793a988b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 486
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354df8c095e64487e9b4f9ea04ced3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 482
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3a142396174856946124b4389d390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07237880895364fb29ce77ad3be378ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 388
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720fa73bd8f74668afeee89f2f7a835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 390
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6c1f44af4c42adb35ba0d60523419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 299
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb896fdebe8ae4eb48defa8bdce62d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 294
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5341016e49984079ba28f1cbff82de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 294
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be70146699340fcb3838c76c86245e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace236dd5f393415ba245838610ea4e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349186c37a274441b93ef3fdeca37257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae7552f29a5f4a7099ba6a205df0b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 189
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead5566f8c1d47049aee7b141985651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 204
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5019e456a9945cfaf809c953e0a3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfea50495ab948d292190fcd0666ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 101
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9fbcf5d53c49438b1ff7c3c08e30c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e467f7b7634a69885bf37518af953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 95
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81cd35dd9f849829ad789cb38cd2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f20c4c02f84a198a605d78ba5f438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce4d5b83091641319ba5d734b9de02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84946d08fdc3f44c8a1f11703a775cac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pretty Soldier Wars AD 2048 - Enemy 06_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 13
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acaa59d1b82046e2a1b3f159620e634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1b226d245232b4770aa18e0aba42b27c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 0af8ef513fa2441e5a634bcb0e289951
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_0
+    21300002: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_1
+    21300004: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_2
+    21300006: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_3
+    21300008: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_4
+    21300010: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_5
+    21300012: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_6
+    21300014: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_7
+    21300016: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_8
+    21300018: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_9
+    21300020: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_10
+    21300022: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_11
+    21300024: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_12
+    21300026: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_13
+    21300028: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_14
+    21300030: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_15
+    21300032: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_16
+    21300034: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_17
+    21300036: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_18
+    21300038: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_19
+    21300040: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_20
+    21300042: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_21
+    21300044: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_22
+    21300046: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_23
+    21300048: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_24
+    21300050: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_25
+    21300052: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_26
+    21300054: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_27
+    21300056: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_28
+    21300058: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_29
+    21300060: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_30
+    21300062: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_31
+    21300064: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_32
+    21300066: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_33
+    21300068: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_34
+    21300070: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_35
+    21300072: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_36
+    21300074: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_37
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 902
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf04c29887844783af65a37e046722f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 902
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b6021427e0429e8bec03ea9e8ebea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 902
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7dd1d9096574047b1106dca4919d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 903
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f0c67390ca44f2b9d1ec54814be46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 902
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6eee6412dd4e63a7bd04484a7a449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 903
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462ae699335e48efa4fffdfcdc87895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 903
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b25db1674734abead1592011838523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 903
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3939036b7804d99bf97a2c6b1401d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 903
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ce55f4670442d18867b2698ab031e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 903
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e7a5b6345c4b19a3137677a9ea443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 902
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9aa8aad40c4d50ba73ce43fae72aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 903
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9268dc25c3441df96e84dedf50f9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 709
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21b2b402b7843efa99f4618a9a6322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 710
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43313bbd4adc42e080e7e99144001c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 710
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ac487dd512425399660a3a81a9c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 711
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f5ba54a315b4d8d8d94a71565e10a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_16
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 710
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f7576427094835a261f9d0e179e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 972
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc640370c60447429a5319286458319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 971
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba4f1c424734ab79edcdd86803a5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 972
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6167fc5084a74c4e980eabb181714be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_20
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 971
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e9cd35ef774c04ba5e864f432110e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_21
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 971
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed99729bf8b40c689354724797ed1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 972
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8cc1d00398d4c7aae20beda1137b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 972
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c444a87b264ab19a9f22296440f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 716
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a8efc76c2244a38bb5f6f4424ab7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 716
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c91bb61bf143e8a75e587d19543bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 714
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c97872e528142138e2634e03f32e28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 715
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104c5c091452b46fa991a7ebfcf8c761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_28
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 715
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d394aab64c4d5599105d85e2da824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 681
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f28558340214f3dad66d0bcbae9d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_30
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 643
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e926c377e4438682db07d97962d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547f574216d548b19f36b77d29f8792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 644
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0bb92ccbb7349feb887d5ce03f51f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_33
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 645
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae756a10cd4c448c82d8f1adf05530a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 644
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1abb63d97b64ce7a4e4024aa8ed736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_35
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 644
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8db1659cdb245b4a557b1f7025cf10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_36
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 646
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246590d77c1f4aabb9b3e170f77c7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Pinball Ruby & Sapphire - Groudon Boss Stage_37
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 644
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea29d59906b472a8f18045eef3c7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9f28bb893b4f4f44b6a63dcd78e3452
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
