@@ -2,3 +2,4 @@ sceneSetups:
 - path: Assets/Lone Druid/Scenes/Boss_Scene.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
